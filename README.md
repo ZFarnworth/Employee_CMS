@@ -17,7 +17,7 @@ Employee CSM to view and manage the departments, roles, and employees in a compa
 
 ## Usage:
 
-[Video Demo]()
+[Video Demo](https://drive.google.com/file/d/1pwDaLxEt6ozUJwghTy3t2B8Hbg7YVJxK/view?usp=sharing)
 
 Run "npm start" in the root directory to start the application.
 Select from the menu to view, add, or update an employee.
